@@ -1,0 +1,22 @@
+@import "https://fonts.googleapis.com/css?family=Cabin";
+
+@media (max-width: 767px) {
+    /* On small screens, the nav menu spans the full width of the screen. Leave a space for it. */
+    .body-content {
+        padding-top: 50px;
+    }
+}
+
+body {
+    overflow-x: hidden;
+    font-family: 'Cabin', sans-serif;
+    font-size: 16px;
+}
+
+#wrapper .sidebar-nav li a {
+    color: floralwhite;
+}
+
+#wrapper .sidebar-nav li.link-active a, li.link-active a:hover, li.link-active a:focus {
+    background-color: gray;
+}

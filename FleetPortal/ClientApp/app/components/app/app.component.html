@@ -1,0 +1,11 @@
+<div class='container-fluid'>
+    <div id='wrapper' class=''>
+        <div id='sidebar-wrapper' *ngIf="isLoggedIn$ | async">
+            <nav-menu></nav-menu>
+        </div>
+        <div id='page-content-wrapper'>
+            <alert></alert>
+            <router-outlet></router-outlet>
+        </div>
+    </div>
+</div>

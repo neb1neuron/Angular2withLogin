@@ -1,0 +1,36 @@
+D:\GitCode\FleetPortalWithAngular\FleetPortal\FleetPortal.Core\bin\Debug\netcoreapp2.0\FleetPortal.Core.deps.json
+D:\GitCode\FleetPortalWithAngular\FleetPortal\FleetPortal.Core\bin\Debug\netcoreapp2.0\FleetPortal.Core.dll
+D:\GitCode\FleetPortalWithAngular\FleetPortal\FleetPortal.Core\bin\Debug\netcoreapp2.0\FleetPortal.Core.pdb
+D:\GitCode\FleetPortalWithAngular\FleetPortal\FleetPortal.Core\obj\Debug\netcoreapp2.0\FleetPortal.Core.csprojResolveAssemblyReference.cache
+D:\GitCode\FleetPortalWithAngular\FleetPortal\FleetPortal.Core\obj\Debug\netcoreapp2.0\FleetPortal.Core.csproj.CoreCompileInputs.cache
+D:\GitCode\FleetPortalWithAngular\FleetPortal\FleetPortal.Core\obj\Debug\netcoreapp2.0\FleetPortal.Core.AssemblyInfoInputs.cache
+D:\GitCode\FleetPortalWithAngular\FleetPortal\FleetPortal.Core\obj\Debug\netcoreapp2.0\FleetPortal.Core.AssemblyInfo.cs
+D:\GitCode\FleetPortalWithAngular\FleetPortal\FleetPortal.Core\obj\Debug\netcoreapp2.0\FleetPortal.Core.dll
+D:\GitCode\FleetPortalWithAngular\FleetPortal\FleetPortal.Core\obj\Debug\netcoreapp2.0\FleetPortal.Core.pdb
+D:\GitCode\FleetPortalWithAngular\FleetPortal - Copy\FleetPortal.Core\bin\Debug\netcoreapp2.0\FleetPortal.Core.deps.json
+D:\GitCode\FleetPortalWithAngular\FleetPortal - Copy\FleetPortal.Core\bin\Debug\netcoreapp2.0\FleetPortal.Core.dll
+D:\GitCode\FleetPortalWithAngular\FleetPortal - Copy\FleetPortal.Core\bin\Debug\netcoreapp2.0\FleetPortal.Core.pdb
+D:\GitCode\FleetPortalWithAngular\FleetPortal - Copy\FleetPortal.Core\obj\Debug\netcoreapp2.0\FleetPortal.Core.csprojResolveAssemblyReference.cache
+D:\GitCode\FleetPortalWithAngular\FleetPortal - Copy\FleetPortal.Core\obj\Debug\netcoreapp2.0\FleetPortal.Core.csproj.CoreCompileInputs.cache
+D:\GitCode\FleetPortalWithAngular\FleetPortal - Copy\FleetPortal.Core\obj\Debug\netcoreapp2.0\FleetPortal.Core.AssemblyInfoInputs.cache
+D:\GitCode\FleetPortalWithAngular\FleetPortal - Copy\FleetPortal.Core\obj\Debug\netcoreapp2.0\FleetPortal.Core.AssemblyInfo.cs
+D:\GitCode\FleetPortalWithAngular\FleetPortal - Copy\FleetPortal.Core\obj\Debug\netcoreapp2.0\FleetPortal.Core.dll
+D:\GitCode\FleetPortalWithAngular\FleetPortal - Copy\FleetPortal.Core\obj\Debug\netcoreapp2.0\FleetPortal.Core.pdb
+D:\GitCode\FleetPortalWithAngular\FleetPortalDapper\FleetPortal.Core\bin\Debug\netcoreapp2.0\FleetPortal.Core.deps.json
+D:\GitCode\FleetPortalWithAngular\FleetPortalDapper\FleetPortal.Core\bin\Debug\netcoreapp2.0\FleetPortal.Core.dll
+D:\GitCode\FleetPortalWithAngular\FleetPortalDapper\FleetPortal.Core\bin\Debug\netcoreapp2.0\FleetPortal.Core.pdb
+D:\GitCode\FleetPortalWithAngular\FleetPortalDapper\FleetPortal.Core\obj\Debug\netcoreapp2.0\FleetPortal.Core.csprojResolveAssemblyReference.cache
+D:\GitCode\FleetPortalWithAngular\FleetPortalDapper\FleetPortal.Core\obj\Debug\netcoreapp2.0\FleetPortal.Core.csproj.CoreCompileInputs.cache
+D:\GitCode\FleetPortalWithAngular\FleetPortalDapper\FleetPortal.Core\obj\Debug\netcoreapp2.0\FleetPortal.Core.AssemblyInfoInputs.cache
+D:\GitCode\FleetPortalWithAngular\FleetPortalDapper\FleetPortal.Core\obj\Debug\netcoreapp2.0\FleetPortal.Core.AssemblyInfo.cs
+D:\GitCode\FleetPortalWithAngular\FleetPortalDapper\FleetPortal.Core\obj\Debug\netcoreapp2.0\FleetPortal.Core.dll
+D:\GitCode\FleetPortalWithAngular\FleetPortalDapper\FleetPortal.Core\obj\Debug\netcoreapp2.0\FleetPortal.Core.pdb
+C:\Users\neb1\Documents\Visual Studio 2017\Projects\FleetPortalDapper\FleetPortalDapper\FleetPortal.Core\bin\Debug\netcoreapp2.0\FleetPortal.Core.deps.json
+C:\Users\neb1\Documents\Visual Studio 2017\Projects\FleetPortalDapper\FleetPortalDapper\FleetPortal.Core\bin\Debug\netcoreapp2.0\FleetPortal.Core.dll
+C:\Users\neb1\Documents\Visual Studio 2017\Projects\FleetPortalDapper\FleetPortalDapper\FleetPortal.Core\bin\Debug\netcoreapp2.0\FleetPortal.Core.pdb
+C:\Users\neb1\Documents\Visual Studio 2017\Projects\FleetPortalDapper\FleetPortalDapper\FleetPortal.Core\obj\Debug\netcoreapp2.0\FleetPortal.Core.csprojResolveAssemblyReference.cache
+C:\Users\neb1\Documents\Visual Studio 2017\Projects\FleetPortalDapper\FleetPortalDapper\FleetPortal.Core\obj\Debug\netcoreapp2.0\FleetPortal.Core.csproj.CoreCompileInputs.cache
+C:\Users\neb1\Documents\Visual Studio 2017\Projects\FleetPortalDapper\FleetPortalDapper\FleetPortal.Core\obj\Debug\netcoreapp2.0\FleetPortal.Core.AssemblyInfoInputs.cache
+C:\Users\neb1\Documents\Visual Studio 2017\Projects\FleetPortalDapper\FleetPortalDapper\FleetPortal.Core\obj\Debug\netcoreapp2.0\FleetPortal.Core.AssemblyInfo.cs
+C:\Users\neb1\Documents\Visual Studio 2017\Projects\FleetPortalDapper\FleetPortalDapper\FleetPortal.Core\obj\Debug\netcoreapp2.0\FleetPortal.Core.dll
+C:\Users\neb1\Documents\Visual Studio 2017\Projects\FleetPortalDapper\FleetPortalDapper\FleetPortal.Core\obj\Debug\netcoreapp2.0\FleetPortal.Core.pdb
