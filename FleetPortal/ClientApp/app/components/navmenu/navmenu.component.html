@@ -1,0 +1,41 @@
+<div class="custom-brand">
+    <a [routerLink]="['/home']">
+        <img style="max-width:90%" border="0" alt="FleetPortal" src="../../images/FleetPortal.png">
+    </a>
+</div>
+<div class="custom-brand-small">
+    <a [routerLink]="['/home']">
+        <span>FP</span>
+    </a>
+</div>
+<br />
+<ul class="sidebar-nav nav-pills nav-stacked" id="menu">
+    <li class="custom-brand nav-account-image" style="text-align: center;">
+        <img class="img-circle" src="https://www.lidarmap.org/wp-content/uploads/2016/11/Missing-Headshot-Placeholder.jpg" width="150"/>
+    </li>
+    <li>
+        <a href="/login" id="menu-toggle" (click)="menuToggle()">
+            <span class="pull-left" style="margin-right:5px;" aria-hidden="true">Logout</span>
+        </a>
+    </li>
+    <li style="height: 30px;margin-top:10px;">
+        <a href="javascript:void(0)" id="menu-toggle" (click)="menuToggle()">
+            <span class="fa fa-bars pull-right" style="font-size:18px;margin-right:8px;" aria-hidden="true">&nbsp;</span>
+        </a>
+    </li>
+    <li [routerLinkActive]="['link-active']">
+        <a [routerLink]="['/home']">
+            <span class='glyphicon glyphicon-home'></span> Home
+        </a>
+    </li>
+    <li [routerLinkActive]="['link-active']">
+        <a [routerLink]="['/fetch-data']">
+            <span class='glyphicon glyphicon-th-list'></span> Fetch data
+        </a>
+    </li>
+    <li [routerLinkActive]="['link-active']">
+        <a [routerLink]="['/routes-management']">
+            <span class='glyphicon glyphicon-road'></span> Routes Management
+        </a>
+    </li>
+</ul>
